@@ -7,3 +7,5 @@ NOTE: I do NOT get paid to teach iOS App Development in these learning sessions 
    * Weeks 1 through 5 have been all about making our very first app: Bull's Eye. 
    * Week 5's folder contains all the relevant files for the same: Xcode Project, swift classes, storyboards, et al.
    * Credits for this game's content, code, and graphics go to iOS Apprentice by Matthis Hollemans. 
+
+2. Week 6 onwards we will move on to developing a Calculator App for iOS. This will be a lot more interesting and will involve significantly more coding than Bull's Eye. 
